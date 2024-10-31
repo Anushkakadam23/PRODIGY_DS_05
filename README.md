@@ -6,6 +6,7 @@ Welcome to the repository for my analysis of traffic accident data, which I comp
 The aim of this project is to examine traffic accident data to identify patterns and trends, pinpoint accident-prone areas, and deliver actionable insights that could contribute to improving road safety measures.
 
 ## Dataset Details
+This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset currently contains approximately 7.7 million accident records.
 The [dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) used for this analysis comprises the following features:
 
 | Feature            | Description                                                                                         |
